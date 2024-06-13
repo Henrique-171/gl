@@ -1,2 +1,0 @@
-# gl
-informações sobre Firefox
